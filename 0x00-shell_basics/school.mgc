@@ -1,4 +1,4 @@
 #!/bin/bas
 0 STRING SCHOOL
 ! :mime text/school
-file -c -m school
+file -c -m school.mgc
