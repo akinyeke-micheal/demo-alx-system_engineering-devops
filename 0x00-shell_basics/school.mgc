@@ -1,4 +1,2 @@
-#!/bin/bas
-0 STRING SCHOOL
-! :mime text/school
-file -c -m school.mgc
+0 string SCHOOL school data
+! :mime
